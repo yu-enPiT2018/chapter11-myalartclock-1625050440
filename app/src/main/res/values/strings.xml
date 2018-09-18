@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Alarm Clock</string>
+    <string name="setAlarm">アラームをセットする</string>
+    <string name="cancelAlarm">アラームをキャンセルする</string>
+    <string name="Button">アラームをセットする</string>
+    <string name="Button1">アラームをキャンセルする</string>
 </resources>
